@@ -1,0 +1,27 @@
+div {
+  background-color: burlywood;
+
+}
+.caixa {
+  color: green;
+  background-color: aquamarine;
+}
+
+#ultima-caixa {
+  width: 280px;  
+  color: coral;
+  margin-left: 400px;
+  padding-bottom: 300px;
+  border-right: 8px solid greenyellow;
+}
+
+.teste {
+  width: 25%;
+  height: 200px;
+  padding: 10px;
+  border: 2px solid black;
+  position: absolute;
+  bottom: 30px;
+  right: 50px;
+
+}
